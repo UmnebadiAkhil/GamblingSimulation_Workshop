@@ -14,6 +14,33 @@ namespace GamblingSimulation
             int result = new Random().Next(0, 2);
             return result;
         }
+
+        /*UC3 Gambler plays till win or loose fifty percent.*/
+
+        public const float STAKE_VALUE = 0.5f;
+        public static int WinOrLooseFiftyPercent()
+        {
+            int winningAmount, loosingAmount, stake;
+            loosingAmount = (int)Math.Round(STAKE * STAKE_VALUE);
+            winningAmount = (int)Math.Round(STAKE + (STAKE * STAKE_VALUE));
+            bool play = true;
+            stake = STAKE;
+            while (play == true)
+            {
+                int betOutcome = WinOrLoose();
+                if (betOutcome == 1)
+                {
+                    stake += BET;
+                }
+                else
+                {
+                    stake -= BET;
+                }
+                if ((stake == loosingAmount) || (stake == winningAmount))
+                    play = false;
+            }
+            return stake;
+        }
         /// <summary>
         /// Defines the entry point of the application.
         /// </summary>
@@ -21,7 +48,7 @@ namespace GamblingSimulation
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to GamblingSimulation!");
-
+            WinOrLooseFiftyPercent();
         }
     }
 }
