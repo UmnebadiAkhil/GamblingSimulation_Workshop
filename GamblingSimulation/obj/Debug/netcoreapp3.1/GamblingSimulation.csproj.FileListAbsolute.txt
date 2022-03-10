@@ -1,0 +1,14 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.exe
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.deps.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.runtimeconfig.dev.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\bin\Debug\netcoreapp3.1\GamblingSimulation.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\GamblingSimulation_Workshop\GamblingSimulation\obj\Debug\netcoreapp3.1\GamblingSimulation.genruntimeconfig.cache
