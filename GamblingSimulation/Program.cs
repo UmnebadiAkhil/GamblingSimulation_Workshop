@@ -41,6 +41,20 @@ namespace GamblingSimulation
             }
             return stake;
         }
+
+        /*UC4 Find Amount after 20 days of play.*/
+        public static int numOfDaysInMonth = 20;
+        public static int AmountForMonthOfPlay()
+        {
+            int totalDaysAmount = 0;
+            int[,] daysOutCome = new int[20, 2];
+            for (int day = 0; day < numOfDaysInMonth; day++)
+            {
+                int amountAfterPlay = WinOrLooseFiftyPercent();
+                totalDaysAmount += amountAfterPlay;
+            }
+            return totalDaysAmount;
+        }
         /// <summary>
         /// Defines the entry point of the application.
         /// </summary>
@@ -48,7 +62,8 @@ namespace GamblingSimulation
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to GamblingSimulation!");
-            WinOrLooseFiftyPercent();
+            int amountWonOrLoss = AmountForMonthOfPlay();
+            Console.WriteLine("Amount won or los for a month = " + amountWonOrLoss);
         }
     }
 }
